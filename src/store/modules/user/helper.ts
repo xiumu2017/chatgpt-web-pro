@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'ChenZhaoYu',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
+      name: 'Sungrow',
+      description: 'Get Help from <a href="https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZmRdwylIDAMbYybJKMEvZBY?utm_scene=team_space" class="text-blue-500" target="_blank" >AliDoc</a>',
     },
   }
 }
